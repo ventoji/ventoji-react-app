@@ -1,7 +1,7 @@
 # ventoji-react-app
 Deploying an react app
 
-This an example of how to deploy a react app. In order to do that, follow the steps below:
+This is an example of how to deploy a react app. In order to do that, follow the steps below:
 
 1. Add to package.json: "homepage":"https://yourusername.github.io/repository-name", in this case https://ventoji.github.io/ventoji-react-app.
 2. Installl gh-pages package running the command: yarn add gh-pages --dev or npm install --save gh-pages.
