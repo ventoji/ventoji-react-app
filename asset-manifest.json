@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ventoji-react-app/static/css/main.2cce8147.chunk.css",
+    "main.js": "/ventoji-react-app/static/js/main.09cc7c2c.chunk.js",
+    "main.js.map": "/ventoji-react-app/static/js/main.09cc7c2c.chunk.js.map",
+    "runtime~main.js": "/ventoji-react-app/static/js/runtime~main.be7004a1.js",
+    "runtime~main.js.map": "/ventoji-react-app/static/js/runtime~main.be7004a1.js.map",
+    "static/js/2.b41502e9.chunk.js": "/ventoji-react-app/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/ventoji-react-app/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/ventoji-react-app/index.html",
+    "precache-manifest.499fc167cac4bb9836c84cc0253aae61.js": "/ventoji-react-app/precache-manifest.499fc167cac4bb9836c84cc0253aae61.js",
+    "service-worker.js": "/ventoji-react-app/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/ventoji-react-app/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/ventoji-react-app/static/media/logo.5d5d9eef.svg"
+  }
+}
