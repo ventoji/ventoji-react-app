@@ -1,5 +1,5 @@
 # ventoji-react-app
-Deploying an react app
+Deploying an react app, assuming you have created the react app on your local enviroment.
 
 This is an example of how to deploy a react app. In order to do that, follow the steps below:
 
