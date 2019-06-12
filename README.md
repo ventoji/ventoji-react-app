@@ -11,7 +11,7 @@ This is an example of how to deploy a react app. In order to do that, follow the
 5. Add deploy commands to package.json: 
   "scripts":{
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build"
    }
 6. Execute deploy commands: npm run deploy or yarn deploy.
 7. You can check on GitHub Pages settings that the source is set to gh-pages branch.
